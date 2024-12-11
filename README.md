@@ -53,7 +53,7 @@ The toolkit used for customer segmentation analysis using K-means algorithm typi
 
 ### 🔄 Framework
 
-**⚙️  scikit-learn**:A comprehensive library of machine learning tools
+**⚙️ scikit-learn**: A comprehensive library of machine learning tools
 
 ### 📚 Libraries:
 
