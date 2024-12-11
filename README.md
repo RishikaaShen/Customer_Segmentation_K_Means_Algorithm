@@ -47,25 +47,25 @@ Running the K-means clustering algorithm to partition the data into K clusters b
 
 Using the insights from the clusters to inform targeted marketing strategies, product offerings, and personalized experiences.
 
-### Toolkit used for the project: 
+### 🧰Toolkit used for the project: 
 
 The toolkit used for customer segmentation analysis using K-means algorithm typically includes the following:
 
-**Framework:**
+**###🛠️Framework:**
 
-**scikit-learn**:A comprehensive library of machine learning tools
+**🔧scikit-learn**:A comprehensive library of machine learning tools
 
-### Libraries:
+### 🛠️Libraries:
 
-**pandas:**  Used for data manipulation
+**🔧pandas:**  Used for data manipulation
 
-**numpy:** Used for numerical computation
+**🔧numpy:** Used for numerical computation
 
-**matplotlib and seaborn:** Used for data visualization
+**🔧matplotlib and seaborn:** Used for data visualization
 
-**KMeans:** A specific algorithm for clustering data into a predefined number of clusters.
+**🔧KMeans:** A specific algorithm for clustering data into a predefined number of clusters.
 
-**silhouette_score:** A metric for evaluating the quality of the clusters formed by a clustering algorithm like K-means.
+**🔧silhouette_score:** A metric for evaluating the quality of the clusters formed by a clustering algorithm like K-means.
 
 ![image](https://github.com/user-attachments/assets/0bbc1430-51e6-4788-807b-01f8e799e25f)
 
